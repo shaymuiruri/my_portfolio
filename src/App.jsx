@@ -6,6 +6,7 @@ import Experience from './components/experience/Experience.jsx';
 import Myprojects from './components/myprojects/Myproject.jsx';
 import './App.css';
 import HeaderSocials from './components/header/HeaderSocials.jsx';
+import About from './components/about/About.jsx';
 
 
 
@@ -13,9 +14,10 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <Contacts />
+      <About/>
       <Experience />
       <Myprojects />
+      <Contacts/>
       <Footer />
       <HeaderSocials/>
       

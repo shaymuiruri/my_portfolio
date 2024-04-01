@@ -22,7 +22,7 @@ const Header = () => {
 
           <div className="me" style={{justifyContent: 'center', alignItems: 'center', display: 'flex'}}>
 
-            <img src={me} alt='me' style={{ width: '50vw', height: '100vh', justifyContent: 'center', alignItems: 'center', display: 'flex', }}/>
+            <img src={me} alt='me' style={{ width: '250px' , margin:'50px 0' }}/>
           </div>
 
           <a href="#contacts" className='scroll__down'>Scroll Down</a>

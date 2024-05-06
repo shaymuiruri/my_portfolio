@@ -50,8 +50,8 @@ const About = () => {
 
             </div>
             <p>
-                    I'm a <b> Mathematics & Computer Science Undergradute</b> at Kenyatta University. 
-                    I'm an enthusiastic and driven Software developer seeking a challenging internship opportunity to apply 
+                    I'm a <b> Full Stack Developer</b> with three years of experience. 
+                    I'm an enthusiastic and driven Software developer seeking a challenging job opportunity to apply 
                     and expand my technical skills. 
                     With a strong academic foundation in software engineering and hands-on experience in various programming languages,
                     I am eager to contribute to innovative projects and learn from experienced professionals in the industry. I am a quick learner who is always ready to face challenges.

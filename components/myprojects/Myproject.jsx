@@ -53,10 +53,10 @@ const Myprojects = () => {
             <div className="portfolio__item-image">
                 { <img src={IMG3} alt=""/> } 
             </div>
-            <h3>Soko Beauty Mobile App</h3>
-            <small className='text-light'>M-Pesa Integration|Django | Postman API </small>
+            <h3>Tech Care Web App</h3>
+            <small className='text-light'>HTML|CSS|React.Js|Node.Js|Mongo.Db </small>
             <div className="portfolio__item-cta">
-              {/* <a href="" target="_blank" rel='noreferrer' className='btn'>Github</a> */}
+              { <a href="https://github.com/shaymuiruri/tech.care" target="_blank" rel='noreferrer' className='btn'>Github</a> */}
               {/* <a href="" target="_blank" rel='noreferrer' className='btn btn-primary'>Visit Website</a>   */}
             </div>
             
